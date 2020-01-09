@@ -1,0 +1,4 @@
+a = 524 
+b = a - 235
+c = a + b
+print(a, b, c)
